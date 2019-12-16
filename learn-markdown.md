@@ -8,6 +8,6 @@
 ###### You can put up to 6 tags to adjust the size of the headers
 - **two asteriks for bold** and *one for italics*
 
-> **We're living in the the future so**
-> **he present is our past**
+> **We're living in the the future so
+> he present is our past**
 
