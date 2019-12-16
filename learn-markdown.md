@@ -3,4 +3,7 @@
 - Adding an asterisk followed by a space is what allows a list to be made.
   - This is how you add sub-notes, by putting two spaces before the dash
   - There is a seriously deep Kanye West quote on the bottom of the page which is pretty neat.
+  
+###### You can put up to 6 tags to adjust the size of the headers
+- **two asteriks for bold** and *one for italics*
 
