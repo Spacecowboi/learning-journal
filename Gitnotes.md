@@ -19,7 +19,7 @@ When using *Git*, "commit" is similar to "save as".
 - You can also assign messages to the commits *THIS IS IMPORTANT*
 - Messages are like writing a caption for your snapshot
 
-## *Git summary (poloaroid analogy)
+## Git summary (poloaroid analogy)
 
 - You use Git to take snapshots of your code at points in time
 - Git keeps a history of what those snapshots look like
@@ -27,15 +27,15 @@ When using *Git*, "commit" is similar to "save as".
 - Usually you give a snapshot a label called a message
 
 
-## *GitHub (there is a difference)
+## GitHub (there is a difference)
 
-## *What is it?
+## What is it?
 
 - A way to share code with others (social media sort of for coding, minus the pictures and drama)
 - A centralized location where developers from all over can meet and share code and work on open source projects
 git + Github = yes
 
-## *Gitflow
+## Gitflow
 
 A (Add)
 C (Commit) *make sure you put a message 
