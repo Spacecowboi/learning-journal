@@ -41,7 +41,7 @@ A (Add)
 C (Commit) *make sure you put a message 
 P (Push)
 
-## **Useful inputs and brief descriptions of their functions
+## Useful inputs and brief descriptions of their functions
 
 - git status = check file status
 - git commit -m = commits changes and leaves a message
