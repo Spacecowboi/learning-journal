@@ -15,5 +15,7 @@
 - **Look at each failure as a learning opportunity**
 - **Criticism can be your greatest tool**
   - Remember not to take things personally, especially in a professional environment
+  
+My name is Anthony Cunningham. I am an aspiring developer, a loving husband, and I want to change the future. I'm hoping that Github and all the tools and skills I will be learning will help to build a brighter tomorrow. This is the way.
 
 
