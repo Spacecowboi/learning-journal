@@ -16,9 +16,3 @@
  - A declaration
    - Selectors indiciate which element the rule applies to. THe same rule applies to more than one element if you separate the element names with commas. 
    - Declarations indicate how the elements referred to in the selector should be styled. They are split into two parts (a property and a value) and are separated by a colon.
-*EXAMPLE* 
-    p
-    ^ selector {
-        font - family: Arial ;
-    }
-        ^^ Declaration
