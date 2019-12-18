@@ -16,7 +16,7 @@
         <li>used to contain the major navigational blocks on the site such as the primary site navigation.</li>
         <br>
     </ul>
-    <ul>Articles
+    <ul>Articles - blah blah
         <li>The article element is a container for any section fo a page that could stand alone and potentially be syndicated
             can be nesteed inside each other</li>
     </ul>
