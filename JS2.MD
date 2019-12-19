@@ -25,4 +25,15 @@
    - Expressions that use two or more values to return a single value
 
 ## Operators
- -These allow programmers to create a single value from one or more values
+ - These allow programmers to create a single value from one or more values
+ - Conditional operators are: ==, ===
+
+## Functions
+ - A function lets you group a series of statements together to perform a specific task. If different parts of a script repeat the same task, you can reuse the function (rather than repeating the same statements)
+ - Pieces of information passed to a function are known as *parameters*
+ - When you write a function and you expect it to provide you with an answer, the response is knwon as a *return value*
+
+## Decalring a Function
+ - to create a function you give it a name and then write the statements needed to achieve its task inside the curly braces.
+ -you declare a function using the *function* keyword. 
+
