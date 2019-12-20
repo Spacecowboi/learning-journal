@@ -12,7 +12,7 @@
 > he present is our past**
 
 #Vocabulary
-> Syntax
+- Syntax
 - repository
 - github
 - render 
